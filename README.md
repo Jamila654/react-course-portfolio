@@ -13,5 +13,3 @@ This portfolio showcases my journey as a **Cybersecurity undergraduate** explori
 - 📱 Mobile-friendly design
 
 ---
-
-## 📂 Project Structure
